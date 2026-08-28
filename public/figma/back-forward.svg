@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="32.9102" height="9.53304" viewBox="0 0 32.9102 9.53304" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="BackAndFront">
+<g id="BackIcon">
+<path d="M4.76652 9.06324L0.469805 4.76652L4.76652 0.469804" fill="#CCCCCC"/>
+<path d="M10.4078 4.76652H0.469805M4.76652 0.469804L0.469805 4.76652L4.76652 9.06324" stroke="#CCCCCC" stroke-width="0.939609" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path id="FrontIcon" d="M22.5024 4.76652H32.4404M28.1436 0.469804L32.4404 4.76652L28.1436 9.06324" stroke="#454545" stroke-width="0.939609" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
