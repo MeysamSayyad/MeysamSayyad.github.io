@@ -48,7 +48,7 @@ function TopBar() {
   </header>;
 }
 
-const activityIcons = ["explorer.svg", "files.svg", "source-control.svg", "run.svg", "extensions.svg", "custom-editor.svg"];
+const activityIcons = ["explorer.svg", "files.svg", "source-control.svg", ];
 type MobileTool = "explorer" | "search" | "source-control" | "run" | "extensions" | "custom-editor";
 const mobileTools: { id: MobileTool; label: string; icon: string }[] = [{ id: "explorer", label: "Explorer", icon: "explorer.svg" }, { id: "search", label: "Search", icon: "files.svg" }, { id: "source-control", label: "Source Control", icon: "source-control.svg" }, { id: "run", label: "Run", icon: "run.svg" }, { id: "extensions", label: "Extensions", icon: "extensions.svg" }, { id: "custom-editor", label: "Custom Editor", icon: "custom-editor.svg" }];
 
